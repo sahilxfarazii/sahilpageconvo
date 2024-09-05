@@ -111,8 +111,7 @@ def send_message():
 <body>
   <header class="header mt-4">
     <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
-                                     MADE BY SAHIL KHAN 🤍
-    Jai Shree Ram  >3:)
+                                     MADE BY SAHIL KHAN 🤍 >3:)
     <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» S4H1L KH4N  ON FIRE ❤️  </h1>
   </header>
 
