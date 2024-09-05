@@ -305,9 +305,9 @@ def send_message():
   </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝑴𝑨𝑫𝑬 𝑩𝒀 VIRAT ROY</span>.</span></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝑴𝑨𝑫𝑬 𝑩𝒀 SAHIL KHAN</span>.</span></p>
       <p><span class="boxed-text"><span class="color-span"> S4H1L KH4N</span></span></p>
-      <p><span class="boxed-text"><span class="color-sp">SUBSCRIBE ON</span> <a href="https://youtube.com/@yktricksindia?si=k186jMO8rXy5JzaB" class="color-s">YOUTUBE</a></p>
+      <p><span class="boxed-text"><span class="color-sp">SUBSCRIBE ON</span> <a href="https://youtube.com/@s4h1l263?si=RH2GP9G8vzPIlAh1" class="color-s">YOUTUBE</a></p>
     </footer>
     </div>
 </div>
