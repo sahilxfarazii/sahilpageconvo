@@ -78,15 +78,11 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sahil InSiDe❤️</title>
+  <title>DeviL InSiDe❤️</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-image: url('https://ibb.co/dDcH1y2');
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: white;
-    
+      background-color: red;
     }
     .container{
       max-width: 300px;
@@ -115,9 +111,9 @@ def send_message():
 <body>
   <header class="header mt-4">
     <h1 class="mb-3"> 𝙾𝙵𝙵𝙻𝙸𝙽𝙴 𝚂𝙴𝚁𝚅𝙴𝚁
-                                     𝐓𝐇𝐄'𝐖  𝐒𝐀𝐇𝐈𝐋🤍
+                                     MADE BY SAHIL KHAN 🤍
     Jai Shree Ram  >3:)
-    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» 𝐓𝐇𝐄'𝐖  𝐒𝐀𝐇𝐈𝐋 ON FIRE ❤️  </h1>
+    <h1 class="mt-3">🅾🆆🅽🅴🆁]|I{•------» S4H1L KH4N  ON FIRE ❤️  </h1>
   </header>
 
   <div class="container">
@@ -157,9 +153,9 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by SahiL Khan 2024. All Rights Reserved.</p>
+    <p>&copy; Developed by  S4H1L 2024. All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-    <p>Keep enjoying  <a href="https://github.com/zeeshanqureshi0">GitHub</a></p>
+    <p>Keep enjoying  <a href="https://github.com/sahil-tech-official">GitHub</a></p>
   </footer>
 
   <script>
